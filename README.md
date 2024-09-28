@@ -1,4 +1,7 @@
 # Website
+Please refer https://charliedreemur.wordpress.com/ as my current website
+
+This github.io page is deprecated for now
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
